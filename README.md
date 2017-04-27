@@ -1,5 +1,7 @@
-# barrett_hand_sim, the package dependencies are added.
-# barret_hand_common & barret_hand_description
+# barrett_hand_sim
+The package dependencies are added (barret_hand_common & barret_hand_description)
+This will make the launch file executed without errors.
+
 Barrett hand simulation package for ROS
 
 Launch the Gazebo simulation:
